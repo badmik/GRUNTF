@@ -17,8 +17,11 @@
   },
   "homepage": "https://github.com/badmik/gruntJShinit#readme",
   "devDependencies": {
-    "grunt": "^1.0.1",
+    "grunt": "^0.4.1",
     "grunt-contrib-jshint": "^1.0.0",
-    "grunt-contrib-watch": "^1.0.0"
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-html-validation": "^0.1.18",
+    "grunt-html-validator": "^0.1.0",
+    "grunt-w3c-validation": "^0.1.16"
   }
 }

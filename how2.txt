@@ -2,3 +2,16 @@ sudo chmod 777 initCHmod.sh
 
 
 ./initCHmod.sh
+
+
+cd project/
+
+grunt watch
+
+Happy Coding!
+
+
+cd ..
+
+
+./ENDgit.sh
